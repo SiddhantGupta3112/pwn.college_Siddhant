@@ -1,16 +1,16 @@
 # Hello Hackers
 
 ## Intro to Commands
-    invoke the hello command to get the flag
+invoke the hello command to get the flag
 
 ### Solve
-    **Flag:** `pwn.college{QE5LD9KXEPLWBrLdVUL7a4cse54.QX3YjM1wSNyEzNzEzW}`
+**Flag:** `pwn.college{QE5LD9KXEPLWBrLdVUL7a4cse54.QX3YjM1wSNyEzNzEzW}`
 
-    ```bash
+```bash
     ~$ hello 
     Success! Here is your flag:
     pwn.college{QE5LD9KXEPLWBrLdVUL7a4cse54.QX3YjM1wSNyEzNzEzW}
-    ```
+```
 ### New Learnings
     Linix commands, invoking commands via the terminal
 
@@ -40,4 +40,5 @@
     ```
 ### New Learnings
     accessing previously inputted commands and reusing commands without retyping the commands
+
 
